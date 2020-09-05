@@ -5,7 +5,7 @@ Hi, I'm Adam:
 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 💬 Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 📫 You can reach me with the links below
-Telegram Gmail LinkedIn adamalston.com
+Telegram Gmail LinkedIn adamalston.com https://www.linkedin.com/in/marcelo-alves-de-sousa-8b453a17b/
 
 Languages I use
 C C++ Clojure HTML5 Java JavaScript Python TypeScript SQL
