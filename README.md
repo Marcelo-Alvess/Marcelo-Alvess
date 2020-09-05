@@ -1,18 +1,20 @@
-<!--
-### Hi there 👋
-**Marcelo-Alvess/Marcelo-Alvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Header
+Hi, I'm Adam:
+🎓Recent computer science graduate from UNC - Chapel Hill
+🧪 Finishing up my research in cybersecurity and preparing to make the industry transition
+🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
+💬 Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+📫 You can reach me with the links below
+Telegram Gmail LinkedIn adamalston.com
 
-Here are some ideas to get you started:
+Languages I use
+C C++ Clojure HTML5 Java JavaScript Python TypeScript SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of the technologies I have worked with
+Git GitHub Jira jQuery Linux Node.js React Java Spring TCP/IP XCode
+
+Some of my favorite open source projects
+Bitwarden Dark Reader uBlock Origin MEGA 
 
 Marcelo Alves 👨‍💻
 Linkedin Badge
