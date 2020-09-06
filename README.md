@@ -17,7 +17,8 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 
-😄 I really like to learn
-🌱 I’m currently learning JavaScript
+° 😄 I really like to learn
+
+° 🌱 I’m currently learning JavaScript
 
 
