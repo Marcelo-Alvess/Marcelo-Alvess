@@ -1,7 +1,7 @@
 
 ##### Hi, I'm Marcelo👨‍💻:
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-alves-de-sousa-8b453a17b/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-alves-de-sousa-0000)
 
 ##### Languages I use
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
